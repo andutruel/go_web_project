@@ -1,0 +1,20 @@
+    [
+        {
+            "id": 1,
+            "codigo_transaccion": "ABC-123",
+            "moneda": "pesos",
+            "monto": 10520.50,
+            "emisor": "Emilia Garin",
+            "receptor": "Brayan Coba Cruz",
+            "fecha_transaccion": "01/04/2022"
+        },
+        {
+            "id": 2,
+            "codigo_transaccion": "ABC-124",
+            "moneda": "pesos",
+            "monto": 1520.00,
+            "emisor": "Maximiliano Mainero",
+            "receptor": "Noelia Nunez",
+            "fecha_transaccion": "01/04/2022"
+        }
+    ]
